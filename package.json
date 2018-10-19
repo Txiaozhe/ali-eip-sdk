@@ -1,0 +1,20 @@
+{
+  "name": "ali-eip-sdk",
+  "version": "1.0.0",
+  "description": "Ali eip sdk for nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "keywords": [
+    "Aliyun、EIP"
+  ],
+  "author": "tang xiaoji",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "moment": "^2.20.1",
+    "request": "^2.83.0",
+    "urlencode": "^1.1.0"
+  }
+}
